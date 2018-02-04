@@ -1,0 +1,16 @@
+{
+    "name": "mrzxkt/captcha",
+    "description": "Generate shuffle string or generate captcha image by string",
+    "homepage": "https://github.com/poem/captcha",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mrzxkt\\Captcha\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
